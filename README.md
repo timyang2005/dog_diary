@@ -1,8 +1,7 @@
-# helloworld
+# 舔狗日记
 
-AstrBot 插件模板
-
-A template plugin for AstrBot plugin feature
+指令：舔狗日记
+会随机发送一段舔狗日记
 
 # 支持
 
