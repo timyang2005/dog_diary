@@ -1,4 +1,5 @@
 from astrbot.api.all import *
+import requests  # 导入 requests 库
 
 @register("dog_diary", "Your Name", "舔狗日记插件", "1.0.0")
 class DogDiaryPlugin(Star):
